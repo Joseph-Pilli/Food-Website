@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image-icon {
+    height: 50px;
+    width: 50px;
+}
+
+.banner-section-bg-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-section-heading {
+    color: white;
+    font-family: roboto;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.banner-section-paragraph {
+    color: white;
+    font-family: roboto;
+    font-size: 24px;
+}
+
+.banner-section-button1 {
+    height: 35px;
+    width: 120px;
+    background-color: #fcae05;
+    color: white;
+    border-width: 0px;
+    font-size: 13px;
+    border-radius: 8px;
+}
+
+.banner-section-button2 {
+    height: 35px;
+    width: 120px;
+    color: #fcae05;
+    background-color: transparent;
+    border-style: solid;
+    border-color: #fcae05;
+    border-width: 1px;
+    font-size: 13px;
+    border-radius: 8px;
+}
+
+.wcu-card {
+    height: 300px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    border-radius: 16PX;
+}
+
+.wcu-section-main-heading {
+    font-weight: bold;
+    font-size: 32px;
+    font-family: roboto;
+}
+
+.wcu-section-main-paragraph {
+    font-size: 20px;
+    font-family: roboto;
+}
+
+.wcu-card-heading {
+    font-size: 25px;
+}
+
+.offers {
+    color: green;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.explore-section-main-heading {
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.explore-card {
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.explore-image {
+    border-radius: 25px;
+
+}
+
+.explore-section-heading {
+    color: black;
+    font-weight: bold;
+    font-family: roboto;
+    font-size: 20px;
+}
+
+.explore-section-link {
+    font-size: 15px;
+    color: #f7a025;
+}
+
+.health-food-section {
+    background-color: #f9fbfe;
+}
+
+.health-food-card-heading {
+    font-family: roboto;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.health-food-card-paragraph {
+    font-size: 22px;
+    font-family: roboto;
+}
+
+.health-food-image {
+    width: 270px;
+}
+
+.health-food-button,
+.payment-button,
+.custom-button {
+    height: 40px;
+    width: 120px;
+    border-width: 0px;
+    color: white;
+    background-color: #f2b80a;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+.payment-section {
+    background-color: white;
+}
+
+.payment-image {
+    width: 270px;
+}
+
+.payment-heading {
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 27px;
+}
+
+.payment-paragraph {
+    font-family: roboto;
+    font-size: 18px;
+}
+
+.payment-png-image {
+    height: 50px;
+    width: 50px;
+
+}
+
+.Thanks-section {
+    background-color: #f7e3be;
+}
+
+.thanks-section-heading {
+    font-family: roboto;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.thanks-section-paragraph {
+    font-family: roboto;
+    font-size: 20px;
+}
+
+.thanks-image {
+    width: 270px;
+}
+
+.main-heading {
+    color: #0e0936;
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.social-media-image {
+    height: 70px;
+    width: 70px;
+    margin-top: 10px;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-image {
+    height: 100px;
+    width: 100px;
+}
+
+.footer-section-paragraph {
+    font-family: roboto;
+    font-size: 20px;
+    color: lightgrey;
+}
+
+.gift-vouncher {
+    color: #d0b200;
+    font-weight: 800;
+}
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+}
